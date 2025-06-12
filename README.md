@@ -2,7 +2,7 @@
 
 This project is a Power BI dashboard designed to present the grocery purchase volume per customer in the UK, comparing periods before and during the Covid-19 lockdowns. The dashboard provides visual insights into how customer purchasing behavior changed as a result of the pandemic restrictions.
 
-## Dashboard
+## Dashboard preview
 
 [![Dashboard Preview](https://github.com/user-attachments/assets/03084f38-ea67-49f3-b0ce-eb92028f1928)](http://bit.ly/4jIYq1j)
 
