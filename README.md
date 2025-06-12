@@ -4,7 +4,7 @@ This project is a Power BI dashboard designed to present the grocery purchase vo
 
 ## Dashboard
 
-<iframe title="Volume per customer before after Covid" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2UzYTRmNjMtM2Q0ZS00MGY5LWFiNzEtZmVhZmJlYzJjMzhhIiwidCI6ImRiZTRlYTgzLWIyNzctNGQyNS1hYThjLTQxZmVlMjlkNzMzZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[![Dashboard Preview]([images/dashboard-preview.png](https://github.com/user-attachments/assets/03084f38-ea67-49f3-b0ce-eb92028f1928))]([http://bit.ly/4jIYq1j])
 
 ## Features
 - Interactive Power BI dashboard
@@ -12,8 +12,8 @@ This project is a Power BI dashboard designed to present the grocery purchase vo
 - Comparison of pre-Covid and during Covid-19 lockdown periods
 - Visualizations to highlight trends and changes in consumer behavior
 
-## How to View the Dashboard in full screen
-You can view the live dashboard in full screen here: [Power BI Dashboard](http://bit.ly/4jIYq1j)
+## How to View the Dashboard
+You can view the live dashboard here: [Power BI Dashboard](http://bit.ly/4jIYq1j)
 
 ## File
 - `Volume_per_customer_before_after_Covid.pbix`: Power BI report file containing the dashboard.
