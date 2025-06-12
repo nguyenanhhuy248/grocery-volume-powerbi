@@ -4,7 +4,9 @@ This project is a Power BI dashboard designed to present the grocery purchase vo
 
 ## Dashboard preview
 
-[![Dashboard Preview](https://github.com/user-attachments/assets/03084f38-ea67-49f3-b0ce-eb92028f1928)](http://bit.ly/4jIYq1j)
+[![Dashboard Preview](https://github.com/user-attachments/assets/af8bc941-24ff-4ed3-8626-ec429fa677f7)](http://bit.ly/4jIYq1j)
+
+[![Dashboard Preview](https://github.com/user-attachments/assets/d20e3694-2297-4772-9265-ebe147c63ea1)](http://bit.ly/4jIYq1j)
 
 ## Features
 - Interactive Power BI dashboard
